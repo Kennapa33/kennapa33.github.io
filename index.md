@@ -2,7 +2,7 @@ Welcome! I'm an Environmental Science graduate from the University of Arizona wi
 
 Contact Me: 
 [LinkedIn](https://www.linkedin.com/in/kenneth-ap-anderson/)
-<a href="kennapa33@gmail.com">Email</a>
+[Email](mailto:kennapa33@gmail.com)
 
 
 <h2>Recent Posts</h2>
